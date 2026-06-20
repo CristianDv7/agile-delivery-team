@@ -1,0 +1,22 @@
+{
+  "personas": [
+    { "name": "Comerciante Local", "role": "dueno_de_tienda_de_barrio", "primary": true },
+    { "name": "Comerciante Local", "role": "administradora_de_cafeteria", "primary": true },
+    { "name": "Comerciante Local", "role": "encargado_de_papeleria", "primary": true },
+    { "name": "Comerciante Local", "role": "propietario_de_local_de_comida_rapida", "primary": true },
+    { "name": "Comerciante Local", "role": "encargada_de_peluqueria", "primary": true },
+    { "name": "Cliente / Consumidor", "role": "consumidor_final", "primary": true }
+  ],
+  "pains": [
+    { "id": "invisibilidad-geografica", "source": "entrevista_01_tienda_barrio.md", "persona": "Comerciante Local" },
+    { "id": "servicios-desconocidos", "source": "entrevista_01_tienda_barrio.md", "persona": "Comerciante Local" },
+    { "id": "informacion-dispersa", "source": "entrevista_02_cafeteria.md", "persona": "Comerciante Local" },
+    { "id": "preguntas-repetitivas", "source": "entrevista_04_comida_rapida.md", "persona": "Comerciante Local" },
+    { "id": "barrera-primer-contacto", "source": "entrevista_01_tienda_barrio.md", "persona": "Comerciante Local" },
+    { "id": "redes-ineficaces", "source": "entrevista_02_cafeteria.md", "persona": "Comerciante Local" },
+    { "id": "actualizacion-costosa", "source": "entrevista_02_cafeteria.md", "persona": "Comerciante Local" },
+    { "id": "horario-fuera-pico-desconocido", "source": "entrevista_04_comida_rapida.md", "persona": "Comerciante Local" },
+    { "id": "registro-complejo", "source": "entrevista_03_papeleria.md", "persona": "Comerciante Local" },
+    { "id": "incertidumbre-disponibilidad", "source": "entrevista_05_peluqueria.md", "persona": "Comerciante Local" }
+  ]
+}

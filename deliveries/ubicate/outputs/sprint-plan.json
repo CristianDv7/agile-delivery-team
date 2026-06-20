@@ -1,0 +1,8 @@
+{
+  "sprint": 1,
+  "sprint_goal": "Al final del sprint, un comerciante puede registrar su local y quedar visible en búsquedas cercanas, un consumidor puede encontrarlo por tipo de servicio y ver su horario actualizado, y contactarlo directamente por WhatsApp con un solo toque.",
+  "capacity": 20,
+  "committed": 20,
+  "stories": ["US-01", "US-05", "US-06", "US-04", "US-08"],
+  "backlog_remaining": ["US-07", "US-02", "US-03"]
+}
