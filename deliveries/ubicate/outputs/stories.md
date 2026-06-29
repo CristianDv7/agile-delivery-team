@@ -1,7 +1,7 @@
 # Historias de Usuario Refinadas — Ubicate
 
 > Refinadas por: Developer  
-> Fecha: 2026-06-20  
+> Fecha: 2026-06-29  
 > Delivery: ubicate  
 > Criterio de completitud: INVEST + Definition of Ready  
 
